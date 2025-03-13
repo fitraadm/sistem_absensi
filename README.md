@@ -3,7 +3,6 @@
 Sistem Absensi adalah aplikasi berbasis web yang digunakan untuk mencatat kehadiran karyawan dengan fitur pencatatan waktu masuk dan keluar secara real-time.
 
 ## Fitur Utama
-- **Manajemen Pengguna**: Tambah, edit, dan hapus data karyawan.
 - **Pencatatan Kehadiran**: Karyawan dapat melakukan clock-in dan clock-out.
 - **Riwayat Kehadiran**: Melihat daftar kehadiran berdasarkan tanggal.
 - **Terintegrasi dengan API**: Menggunakan API eksternal untuk mengelola data absensi.
